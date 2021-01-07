@@ -11399,7 +11399,7 @@ body>header.header.header-style-2 .icon-bar {
 	left:10px
 }
 }.entry .entry-content .wp-block-code,.entry .entry-content pre {
-	padding:30px;
+	padding:0px;
 	background:#2b303b;
 	border-radius:3px;
 	border:0;
@@ -11408,11 +11408,11 @@ body>header.header.header-style-2 .icon-bar {
 }
 @media(max-width:1239px) {
 	.entry .entry-content .wp-block-code,.entry .entry-content pre {
-	padding:20px
+	padding:0px
 }
 }@media(max-width:767px) {
 	.entry .entry-content .wp-block-code,.entry .entry-content pre {
-	padding:15px
+	padding:0px
 }
 }.entry .entry-page p {
 	margin:0
